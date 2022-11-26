@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/035/834/987/original/jordan-pak-lofi.gif?1616014770" width="600" height="300"/>
+</div>
+
 ### About Me
 
 I am a Computer Science Student at EPITA, who is currently exploring what the Computer Science domain has to offer. I am enthusiastic about exploring new tools and am energized by a challenge. I am interested in Deep Learning and AI.
