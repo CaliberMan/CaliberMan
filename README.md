@@ -25,10 +25,10 @@ I am a Computer Science Student at EPITA, who is currently exploring what the Co
   <img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=black&style=for-the-badge" alt="Python">
   <img src="https://img.shields.io/badge/csharp-purple?logo=csharp&logoColor=white&style=for-the-badge" alt="C#">
   <img src="https://img.shields.io/badge/C-grey?logo=C&logoColor=white&style=for-the-badge" alt="C">
-  <img src="https://img.shields.io/badge/ocaml-orange?logo=ocaml&logoColor=white&style=for-the-badge" alt="OCaml">
+  <img src="https://img.shields.io/badge/ocaml-darkorange?logo=ocaml&logoColor=white&style=for-the-badge" alt="OCaml">
   <img src="https://img.shields.io/badge/vim-darkgreen?logo=neovim&logoColor=lightblue&style=for-the-badge" alt="Neovim">
   <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=lightblue&style=for-the-badge" alt="GitHub">
-  <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=lightblue&style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/Git-darkorange?logo=git&logoColor=lightblue&style=for-the-badge" alt="Git">
   <img src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=lightblue&style=for-the-badge" alt="Unity">
 </div>
 
