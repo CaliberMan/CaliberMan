@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h3 align="center">Hi There</h3>
 
 <!--
 **CaliberMan/CaliberMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,5 +38,6 @@ I am a Computer Science Student at EPITA, who is currently exploring what the Co
 </div>
 
 ### Currently Learning 🧠
+  - Arch Linux
   - Image Proccessing
   - Neural Networks
