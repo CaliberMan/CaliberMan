@@ -1,5 +1,3 @@
-<h3 align="center">Hi there 👋</h3>
-
 <!--
 **CaliberMan/CaliberMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
