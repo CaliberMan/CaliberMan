@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img width="1000" alt="name" src="https://user-images.githubusercontent.com/82263449/204098434-651f3779-71c9-48c5-bc7c-28bc338c06ca.PNG">
+  <img width="1080" alt="image" src="https://user-images.githubusercontent.com/82263449/204098753-59b0acde-81f2-489b-b9be-875ba61fee14.png">
 </div>
-
 
 ### About Me
 
