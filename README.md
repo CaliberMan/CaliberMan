@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/035/834/987/original/jordan-pak-lofi.gif?1616014770" width="600" height="300"/>
+  <img width="1000" alt="name" src="https://user-images.githubusercontent.com/82263449/204098434-651f3779-71c9-48c5-bc7c-28bc338c06ca.PNG">
 </div>
+
 
 ### About Me
 
