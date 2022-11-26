@@ -36,5 +36,4 @@ I am a Computer Science Student at EPITA, who is currently exploring what the Co
 
 ### Currently Learning 🧠
   - Arch Linux
-  - Image Proccessing
   - Neural Networks
