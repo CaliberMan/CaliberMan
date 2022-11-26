@@ -17,17 +17,19 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I am a Computer Science Student at EPITA, who is currently exploring what the Computer Science domain has to offer. I am enthusiastic about exploring new tools and am energized by a challenge.
+I am a Computer Science Student at EPITA, who is currently exploring what the Computer Science domain has to offer. I am enthusiastic about exploring new tools and am energized by a challenge. I am interested in Deep Learning and AI.
 
 ### Language and Tools 🛠️
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" title="OCaml" alt="OCaml" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+<div id="badges">
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=black&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/csharp-purple?logo=csharp&logoColor=white&style=for-the-badge" alt="C#">
+  <img src="https://img.shields.io/badge/C-grey?logo=C&logoColor=white&style=for-the-badge" alt="C">
+  <img src="https://img.shields.io/badge/ocaml-orange?logo=ocaml&logoColor=white&style=for-the-badge" alt="OCaml">
+  <img src="https://img.shields.io/badge/vim-darkgreen?logo=neovim&logoColor=lightblue&style=for-the-badge" alt="Neovim">
+  <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=lightblue&style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=lightblue&style=for-the-badge" alt="GitHub">
+  <img src="https://img.shields.io/badge/vim-darkgreen?logo=neovim&logoColor=lightblue&style=for-the-badge" alt="Neovim">
+  <img src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=lightblue&style=for-the-badge" alt="Unity">
+  <img src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=lightblue&style=for-the-badge" alt="Unity">
 </div>
