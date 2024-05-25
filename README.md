@@ -17,11 +17,13 @@ Here are some ideas to get you started:
   <img width="1080" alt="image" src="https://user-images.githubusercontent.com/82263449/204098753-59b0acde-81f2-489b-b9be-875ba61fee14.png">
 </div>
 
-### About Me
+### 👋 About Me
 
-I am a Computer Science Student at EPITA, who is currently exploring what the Computer Science domain has to offer. I am enthusiastic about exploring new tools and am energized by a challenge. I am interested in Deep Learning and AI.
+- Computer Science Student at EPITA
+- Enthusiastic about exploring new tools and am energized by a challenge.
+- I am interested in Deep Learning and AI.
 
-### Language and Tools 🛠️
+### 🛠️ Language and Tools
 
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=black&style=for-the-badge" alt="Python">
@@ -34,6 +36,8 @@ I am a Computer Science Student at EPITA, who is currently exploring what the Co
   <img src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=lightblue&style=for-the-badge" alt="Unity">
 </div>
 
-### Currently Learning 🧠
-  - Arch Linux
-  - Neural Networks
+### 📖 Currently Learning
+- Javascript
+
+### 🧠 Currently Working on 
+  - A Discord Joke Bot
