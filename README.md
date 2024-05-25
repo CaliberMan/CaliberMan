@@ -17,21 +17,21 @@ Here are some ideas to get you started:
   <img width="1080" alt="image" src="https://user-images.githubusercontent.com/82263449/204098753-59b0acde-81f2-489b-b9be-875ba61fee14.png">
 </div>
 
-### 👋 About Me
+# 👋 About Me
 
 - Computer Science Student at EPITA
 - Enthusiastic about exploring new tools and am energized by a challenge.
 - I am interested in Deep Learning and AI.
 
-### 🛠️ Language and Tools
+# 🛠️ Language and Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,java,postgres,git,neovim,docker&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,java,postgres,git,neovim,docker" />
 </a>
 
-### 📖 Currently Learning
+# 📖 Currently Learning
 - Javascript
 - Arduino
 
-### 🧠 Currently Working on 
+# 🧠 Currently Working on 
 - A Discord Joke Bot
