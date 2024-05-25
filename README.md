@@ -26,11 +26,12 @@ Here are some ideas to get you started:
 ### 🛠️ Language and Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,java,ocaml,git,neovim,docker&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,java,postgres,git,neovim,docker&perline=5" />
 </a>
 
 ### 📖 Currently Learning
 - Javascript
+- Arduino
 
 ### 🧠 Currently Working on 
-  - A Discord Joke Bot
+- A Discord Joke Bot
