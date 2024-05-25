@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 🛠️ Language and Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,java,ocaml,git,neovim,docker&perline=3" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,java,ocaml,git,neovim,docker&perline=5" />
 </a>
 
 ### 📖 Currently Learning
