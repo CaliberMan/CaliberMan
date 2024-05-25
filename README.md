@@ -25,11 +25,9 @@ Here are some ideas to get you started:
 
 ### 🛠️ Language and Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,java,ocaml,git,neovim,docker" />
+</a>
 
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=black&style=for-the-badge" alt="Python">
