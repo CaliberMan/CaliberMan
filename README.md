@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # 👋 Hey There!
 - I am a Computer Science Student at EPITA
 - Enthusiastic about exploring new tools and am energized by a challenge.
-- I am interested in Deep Learning and AI.
+- I am interested in working in a managerial role.
 
 # 🛠️ Languages and Tools
 
